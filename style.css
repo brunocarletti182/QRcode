@@ -16,7 +16,7 @@ body {
 }
 
 main {
-    width: 280px;
+    width: 300px;
     text-align: center;
     padding: 1rem;
     background-color: white;
@@ -42,8 +42,8 @@ main img {
 #heading {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    font-size: 15px;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: large;
 }
 
 #p {
@@ -54,7 +54,8 @@ main img {
 }
 
 footer {
+
     text-align: center;
     position: absolute;
-    bottom: 2rem;
+    bottom: 1rem;
 }
